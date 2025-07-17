@@ -1,1 +1,1 @@
-"# Boothes-Algorithm" 
+Simple Boothes Algorithm Demo
